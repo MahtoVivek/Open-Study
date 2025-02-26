@@ -32,7 +32,7 @@ open-study/
 ```
 ## Contact Information
 
-- **Website**: [Open Study](https://www.openstudy.com)
+- **Website**: [Open Study](https://openstudi.netlify.app/)
 - **WhatsApp**: [9229876951](https://wa.me/9229876951?text=Admission!)
-- **Telegram**: [Join Nios Friend](https://t.me/niosaddmission_2025)
+- **Telegram**: [Open Study](https://t.me/niosaddmission_2025)
 
